@@ -9,7 +9,6 @@ from Console.package import Functions
 
 f = Functions()
 
-col = f.get_args("arg1")
 # your code here
 
 np.random.seed(10)
